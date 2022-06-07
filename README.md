@@ -3,6 +3,15 @@
 https://user-images.githubusercontent.com/49006906/172270161-0e11c046-73fa-49db-88dd-f2d53429879b.mp4
 ## Why?
 ### The family fued game did not have any way of telling who buzzed in first, so we resulted in grabbing a spoon. But that could get aggressive sometimes. 
+## Knowledge Gained
+Throughout the design process I learned some important things.
+
+1)Design and order a custom PCB from a distributer
+
+2)Integration of Mechanical and Electrical Design.
+
+3)Designing for assembly.
+
 ## Mehcanical Design
 The hosuing is split into four parts due to 3D printer size constraint. 
 
