@@ -23,7 +23,7 @@ A switch on the side turns the device on/off.
 A custom PCB was designed in Eagle to assist with wiring. 
 
 ### V1-Traces led to wrong pins on arduino
-![Uploading 20220606_203048.jpg…]()
+![20220606_203048](https://user-images.githubusercontent.com/49006906/172271905-8c8b291b-30f9-4c72-9408-3c4767894739.jpg)
 
 ### V2-Working
 ![20220606_203058](https://user-images.githubusercontent.com/49006906/172271182-2dc21ec3-9c1a-4711-b366-d9981e348664.jpg)
