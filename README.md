@@ -16,7 +16,9 @@ A custom PCB was designed in Eagle to assist with wiring.
 ### V1-Traces led to wrong pins on arduino
 ![Uploading 20220606_203048.jpg…]()
 
-
 ### V2-Working
 ![20220606_203058](https://user-images.githubusercontent.com/49006906/172271182-2dc21ec3-9c1a-4711-b366-d9981e348664.jpg)
 
+
+## Software
+Software can be found in the no delay folder.
